@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>
-        Total sej app hej
+        Experiments with expo
       </Text>
       <div className='btn'>
         click here
